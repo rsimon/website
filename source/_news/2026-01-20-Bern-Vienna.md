@@ -11,7 +11,7 @@ excerpt: >
 
 The International Image Interoperability Framework Consortium is delighted to announce two new members. [The University of Bern](https://www.unibe.ch/index_eng.html) and the [Vienna University Library](https://bibliothek.univie.ac.at/en/) have joined as Associate members. 
 
-*“The IIIF-C is pleased to add The University of Bern and the Vienna University Library to our global consortium,” said Martin Kalfatovic, IIIF-C Managing Director, “both bring great content and technical expertise to the wider IIIF community.”*
+*“The IIIF-C is pleased to add The University of Bern and the Vienna University Library to our global consortium,”* said Martin Kalfatovic, IIIF-C Managing Director, *“both bring great content and technical expertise to the wider IIIF community.”*
 
 The University Library of Bern provides a centrally hosted, long-term maintained [institutional IIIF service](https://bib.unibe.ch/iiif-en) for researchers at the University of Bern. This service offers a sustainable technical infrastructure for IIIF-based research projects, such as Digital Scholarly Editions. It combines a IIIF server with a user-friendly frontend that allows researchers to upload images and metadata for their own projects. Once uploaded, all information required to use the IIIF Image and Presentation APIs is generated automatically, allowing seamless integration of images into project-specific presentation platforms. In collaboration with the Digital Humanities and the Data Science Lab, the University Library actively promotes the use of IIIF across disciplines.
 
