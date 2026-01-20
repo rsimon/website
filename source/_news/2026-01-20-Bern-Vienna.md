@@ -26,7 +26,7 @@ A key initial focus for this development is cartographic and geospatial material
 
 **About the International Image Interoperability Framework**
 
-IIIF is a set of open standards for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions.In addition to supporting the IIIF community financially, these institutions contribute to the APIs, Community Groups, and more.
+IIIF is a set of open standards for delivering high-quality, attributed digital objects online at scale. It’s also an international community developing and implementing the IIIF APIs. IIIF is backed by a consortium of leading cultural institutions. In addition to supporting the IIIF community financially, these institutions contribute to the APIs, Community Groups, and more.
 
 
 
