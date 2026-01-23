@@ -1,9 +1,15 @@
 ---
-title: "2026 IIIF Conference Travel Scholarships"
-layout: event
-tags: [event ]
+title: "2026 IIIF Travel Scholarship"
+layout: spec
+page: overview
+banner: true 
+breadcrumbs:
+  - label: All Events
+    link: '{{ site.root_url }}/event/'
+  - label: 2026 IIIF Annual Meeting
+    link: '{{ site.root_url }}/event/2026/netherlands/'
 hero:
-  image: "assets/images/heroes/leiden.png"
+  image: "assets/images/heroes/leiden.jpg"
 ---
 {{ theme.block-start }}
 
