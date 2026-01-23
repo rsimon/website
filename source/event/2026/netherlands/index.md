@@ -48,6 +48,9 @@ The full Call for Proposals and a link to submit your proposal can be found on t
 
 We are offering sponsorship for the 2025 IIIF conference and the benefits and costs can be seen on the [sponsorship page](https://iiif.io/event/2026/netherlands/sponsorship/). If you are interested in becoming a sponsor please contact [admin@iiif.io](mailto:admin@iiif.io). 
 
+### **Travel Scholarship**
+
+In order to foster a conference environment that better reflects the diversity of the community, the IIIF Consortium is pleased to offer three travel scholarships to attend the Annual Conference. Learn more on the [travel scholarship page](https://iiif.io/event/2026/netherlands/sponsorship/).
 
 ### Program committee
 
